@@ -4,6 +4,7 @@
     "kontaktinformasjon.service.t-fk.no"
   ],
   "type": "docker",
+  "dotenv": "production.env",
   "features": {
     "cloud": "v2"
   }
