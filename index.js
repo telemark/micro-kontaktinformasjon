@@ -8,7 +8,7 @@ const handler = require('./lib/handler')
 const router = Router()
 
 // JWT
-router.use(jwt({ JWT_SECRET }).unless({ path: ['/'] }))
+router.use(jwt({ secret: JWT_SECRET }).unless({ path: ['/'] }))
 router.use(handleUnauthorized)
 
 // ROUTES
