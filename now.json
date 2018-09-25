@@ -1,0 +1,10 @@
+{
+  "name": "micro-kontaktinformasjon",
+  "alias": [
+    "kontaktinformasjon.service.t-fk.no"
+  ],
+  "type": "docker",
+  "features": {
+    "cloud": "v2"
+  }
+}
