@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/telemark/micro-kontaktinformasjon.svg?branch=master)](https://travis-ci.org/telemark/avtale-logg)
+[![Build Status](https://travis-ci.com/telemark/micro-kontaktinformasjon.svg?branch=master)](https://travis-ci.com/telemark/micro-kontaktinformasjon)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # micro-kontaktinformasjon
