@@ -58,7 +58,7 @@
     "axios": "0.18.0",
     "cors": "2.8.5",
     "express-jwt": "5.3.1",
-    "finalhandler": "1.1.1",
+    "finalhandler": "1.1.2",
     "is-valid-fodselsnummer": "3.0.3",
     "jsonwebtoken": "8.5.1",
     "markdown-it": "8.4.2",
